@@ -35,19 +35,20 @@ Used Car Price Prediction Dataset is a comprehensive collection of automotive in
 3. Data Cleaning & Preprocessing
    * Check null values
    * Converted categorical variables using label mapping and one- hot encoding
-   * Removed irrelevant columns like Car_Name
+   * Removed irrelevant columns like Car_Name.
 4. Feature Scaling
-   * Applied StandardScaler to normaize features
+   * Applied StandardScaler to normaize features.  
 5. Model Building
    * Used LinearRegression from sklearn
    * Trained the model with an 80/20 train-test split
-   * Saved the model and scaler using Joblib
-6.Prediction
- * Collected user input from the terminal
- * Transformed input using the saved scaler
- * Predicted car price using the trained model
+   * Saved the model and scaler using Joblib.
+  
+ 6.Prediction
+   * Collected user input from the terminal
+   * Transformed input using the saved scaler
+   * Predicted car price using the trained model
 
-# 📌 Learnings
+# 📌 Learnings:
 * Performed full-cycle regression modeling from scratch.
 * Learned how to encode categorical data and scale features.
 * Practice basic EDA with visualization.
