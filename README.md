@@ -1,11 +1,11 @@
-# Car_Price_Prediction_Using_LinearRegression_Algorithm
+# Car_Price_Prediction_Using_LinearRegression_Algorithm 🚗
 ![Image Alt](1712922090733.png)
 
 # Introduction:
 
 A car price prediction project uses machine learning to estimate the value of a vehicle based on various features. This project aims to provide accurate price predictions, benefiting both buyers and sellers in the automotive market. By analyzing factors like  Fuel Type,Kms Driven, Manufacture Year,  Transmission Type (Manual, Automatic, number of Owners etc..., the project helps in setting competitive prices and facilitating informed decisions. 
 
-# About Dataset:
+#  📂 About Dataset:
 Used Car Price Prediction Dataset is a comprehensive collection of automotive information extracted from the popular automotive marketplace website, https://www.cars.com. This dataset comprises 309 data points, each representing a unique vehicle listing, and includes fuel type, Owner, Kms_Driven, Present_Price, Car_Name, year, Seller_Type, Transmission etc...
 
 ## Description:
@@ -19,7 +19,7 @@ Used Car Price Prediction Dataset is a comprehensive collection of automotive in
 * Transmission : Car is Manual or Automatic
 * Owner : Number of Owners used this car previously
 
-## Technology Used:
+## 📊 Technology Used:
 * Python
 * Pandas,numpy
 * Seaborn, matplotlib
@@ -27,7 +27,7 @@ Used Car Price Prediction Dataset is a comprehensive collection of automotive in
 * joblib(for saving the model and scaler)
 
 
-## Project Flow:
+## 🔍 Project Flow:
 1. Load and Understand data.
 2. Exploratory Data Analysis.
    * Value count and bar plots for categorical features.
